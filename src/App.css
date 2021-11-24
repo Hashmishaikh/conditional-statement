@@ -1,0 +1,38 @@
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 40px;
+  background-color: aqua;
+  border-radius: 8px;
+  transition: 1.6s;
+}
+.btn:hover{
+  width: 250px;
+  transition: 1.6s;
+}
+.switchoff{
+  background-color: black;
+  color: azure;
+  height: 100vh;
+}
+.display{
+  background-color: tomato;
+  height: 100vh;
+}
+.btn-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.on{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
